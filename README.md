@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhasyraf?tab=repositories](https://github.com/muhasyraf?tab=repositories)
 
-- 📝 I regularly write articles on [https://muhasyraf.github.io/blogs](https://muhasyraf.github.io/blogs)
+- 📝 I regularly write articles on [https://muhasyraf.github.io/blogs](https://muhasyraf.github.io/blog)
 
 - 📫 How to reach me **faizkamil39@gmail.com**
 
