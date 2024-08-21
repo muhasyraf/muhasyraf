@@ -1,9 +1,7 @@
-<h1 align="center">I'm Asyraf</h1>
-<h3 align="center">Third Year Information Systems Student | Junior Web Developer</h3>
+<h1 align="center">Hello! I'm Asyraf</h1>
+<h3 align="center">Software Engineer | Full-stack Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhasyraf&theme=algolia" alt="muhasyraf" /></a> </p>
-
-- 🌱 I’m currently learning **Laravel, React, Vue, Next, Express**
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhasyraf?tab=repositories](https://github.com/muhasyraf?tab=repositories)
 
